@@ -1,0 +1,2 @@
+curl -X PUT http://localhost:8888/ledcnt?ledcnt=100
+curl -X GET http://localhost:8888/time
